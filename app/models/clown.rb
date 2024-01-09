@@ -1,0 +1,3 @@
+class Clown < ApplicationRecord
+
+end
